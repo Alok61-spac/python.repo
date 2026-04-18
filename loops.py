@@ -37,7 +37,7 @@ A = [82,80,85,92,91,99,199,87,54,61,68,28]
 X = int(input("enter your value : "))
 for value in A:
     if value == X :
-        print("foundit..",)
+        print("found it..",)
         found = True
 if not found:
     print("Enter A Valid Value ")
